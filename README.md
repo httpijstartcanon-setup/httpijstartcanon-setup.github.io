@@ -58,4 +58,4 @@ For any android device, the canon application is called canon utility. So here a
 16. Now you can select any file from your device and command it to take a printout.
 17. Make sure to load up pages in the printer tray.
 
-```Note: The ***[ij.start.canon](https://httpijstartcanon-setup.github.io/)*** setup process is similar to the iOS operating system.
+```Note: The ***[ij.start.canon](https://httpijstartcanon-setup.github.io/)*** setup process is similar to the iOS operating system.```
